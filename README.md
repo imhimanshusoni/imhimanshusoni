@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Himanshu Soni</h1>
 <h5 align="center">
-A 2rd-year student pursuing B.Tech in Computer Science & Engineering with a specialization of AIML, from Lovely Professional University. 
+A 2rd-year student pursuing B.Tech in Computer Science & Engineering with a specialization of AI/ML, from Lovely Professional University. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imhimanshusoni&label=PROFILE+VIEWS)" alt="Himanshu..." /> </p>
 <p>
