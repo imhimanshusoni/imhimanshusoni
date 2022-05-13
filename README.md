@@ -21,7 +21,7 @@ A 2nd-year student pursuing B.Tech in Computer Science & Engineering with a spec
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/mhimanshusoni" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/mhimanshusoni" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="imhimanshusoni" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/himanshu-soni-17620916a" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Himanshu Soni" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
