@@ -28,5 +28,5 @@ A 2nd-year student pursuing B.Tech in Computer Science & Engineering with a spec
 <hr>
 
 <p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/imhimanshusoni/imhimanshusoni/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
