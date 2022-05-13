@@ -9,7 +9,7 @@ A 2nd-year student pursuing B.Tech in Computer Science & Engineering with a spec
 <p>
 <a align= "center" href="https://github.com/imhimanshusoni">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=imhimanshusoni&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<img align="right" height="350" width="400" src="https://dribbble.com/shots/14288845-GitHub-logo-animation-TheMatrix?utm_source=Clipboard_Shot&utm_campaign=afro-m&utm_content=GitHub%20logo%20animation%2CTheMatrix%20!&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=afro-m&utm_content=GitHub%20logo%20animation%2CTheMatrix%20!&utm_medium=Social_Share" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=imhimanshusoni&count_private=true&theme=radical&show_icons=true" />
 
