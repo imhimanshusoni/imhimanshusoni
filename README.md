@@ -22,6 +22,7 @@ A 2nd-year student pursuing B.Tech in Computer Science & Engineering with a spec
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/mhimanshusoni" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="imhimanshusoni" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/sonihimanshu060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sirius_07" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/himanshu-soni-17620916a" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Himanshu Soni" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
