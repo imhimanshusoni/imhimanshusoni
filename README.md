@@ -10,10 +10,9 @@
 - 🌱 I’m currently mastering my DSA skills.<br>
 - 🤔 I’m looking for help with Data Structures and Algorithms.<br>
 - ⚡ In my free time, I love to Read Self-Help books and watch series/movies.<br>
-- 💬 I love to learn new things and always ready to help others.<br>
-- 📫 How to reach me **sonihimanshu060@gmail.com**
-         
+- 💬 I love to learn new things and always ready to help others.<br>        
 </p>
+- 📫 How to reach me **sonihimanshu060@gmail.com**
 <br><br><br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imhimanshusoni&label=PROFILE+VIEWS" alt="Himanshu..." /> </p>
 <p>
