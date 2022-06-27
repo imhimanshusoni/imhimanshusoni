@@ -4,6 +4,7 @@
          width="45" />, I'm Himanshu Soni</h1>
 <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nsfxk6msyq52s50p4snafpezf6qzzkf82tcy7jw4&rid=giphy.gif&ct=g" width="230">
 <h5 align="center">
+         <br><br>
 </p align="left">
 - 🎓 3rd Year CSE UG Student!. <br>
 - 🌱 I’m currently mastering my DSA skills. <br>
