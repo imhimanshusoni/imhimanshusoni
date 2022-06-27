@@ -35,7 +35,7 @@
 <a href="https://www.hackerrank.com/sonihimanshu060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sonihimanshu060" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/imhimanshu1" target="blank"><img align="center" src="https://i.pinimg.com/474x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6--programming.jpg" alt="codechef" height="40" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/himanshu-soni-17620916a" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Himanshu Soni" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/sonihimanshu060/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="40" /></a>
+<a href="https://leetcode.com/sonihimanshu060/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="50" /></a>
 </p>
 
 <h3 align="center">⭐ Languages and Tools:</h3>
