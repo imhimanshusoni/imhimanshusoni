@@ -7,7 +7,7 @@ A 2nd-year student pursuing B.Tech in Computer Science & Engineering with a spec
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imhimanshusoni&label=PROFILE+VIEWS" alt="Himanshu..." /> </p>
 <p>
-<a align= "center" href="https://github.com/imhimanshusoni">
+<a align= "right" href="https://github.com/imhimanshusoni">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=imhimanshusoni&theme=radical">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
