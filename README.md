@@ -26,6 +26,13 @@ A 2nd-year student pursuing B.Tech in Computer Science & Engineering with a spec
 <a href="https://www.linkedin.com/in/himanshu-soni-17620916a" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Himanshu Soni" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<h3 align="center">✨ My Coding Profiles ✨</h3>
+<p align="center">
+<a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="38" style="vertical-align:top; margin:0px"> &nbsp;&nbsp;&nbsp;
+
+</p>
+
 <hr>
 
 <p align="center">
