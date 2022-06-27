@@ -13,7 +13,7 @@
 - 💬 I love to learn new things and always ready to help others.<br>        
 - 📫 How to reach me **sonihimanshu060@gmail.com**
 
-<br><br><br><br><br>
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imhimanshusoni&label=PROFILE+VIEWS" alt="Himanshu..." /> </p>
 <p>
 <a align= "centre" href="https://github.com/imhimanshusoni">
