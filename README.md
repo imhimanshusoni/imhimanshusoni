@@ -37,7 +37,7 @@ A 2nd-year student pursuing B.Tech in Computer Science & Engineering with a spec
 <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="38" style="vertical-align:top; margin:0px"> &nbsp;&nbsp;&nbsp;
 <a href="https://practice.geeksforgeeks.org/courses/fork-cpp" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/c++1.png" alt="cplusplus" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://practice.geeksforgeeks.org/courses/fork-java" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java" width="35" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://practice.geeksforgeeks.org/courses/fork-java" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java" width="30" height="50"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/html.png" alt="html5" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/css.png" alt="css3" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 
