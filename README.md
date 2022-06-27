@@ -6,6 +6,7 @@
 <h5 align="center">
 A 2nd-year student pursuing B.Tech in Computer Science & Engineering with a specialization of AI/ML, from Lovely Professional University. 
 </h5>
+&nbsp;&nbsp;&nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imhimanshusoni&label=PROFILE+VIEWS" alt="Himanshu..." /> </p>
 <p>
 <a align= "centre" href="https://github.com/imhimanshusoni">
