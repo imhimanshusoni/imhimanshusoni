@@ -6,7 +6,7 @@
 <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nsfxk6msyq52s50p4snafpezf6qzzkf82tcy7jw4&rid=giphy.gif&ct=g" width="230">
 
 
-- 🎓 3rd Year CSE UG Student!.<br>
+- 🎓 3rd Year B.Tech CSE Student!.<br>
 - 🌱 I’m currently mastering my DSA skills.<br>
 - 🤔 I’m looking for help with Data Structures and Algorithms.<br>
 - ⚡ In my free time, I love to Read Self-Help books and watch series/movies.<br>
