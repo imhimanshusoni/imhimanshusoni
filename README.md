@@ -4,7 +4,7 @@
 
 ### React Native Developer | Building High-Rated Mobile Apps
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=vercel&logoColor=black)](https://himanshu-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=vercel&logoColor=black)](https://himanshu-portfolio-pi.vercel.app/)
 [![PlayStore](https://img.shields.io/badge/PlayStore_4.9⭐-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=in.habuild)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonihimanshu060)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonihimanshu060@gmail.com)
@@ -119,7 +119,7 @@ YouTube clone capable of hosting programming videos
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/sonihimanshu060)
-- 🌐 [Portfolio](https://himanshu-portfolio.vercel.app)
+- 🌐 [Portfolio](https://himanshu-portfolio-pi.vercel.app/)
 - 📧 [Email](mailto:sonihimanshu060@gmail.com)
 - 🐦 [Twitter](https://twitter.com/mhimanshusoni)
 
