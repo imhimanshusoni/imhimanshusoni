@@ -1,56 +1,134 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Himanshu Soni</h1>
+<div align="center">
+  
+# Hi there, I'm Himanshu Soni 👋
 
-<img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nsfxk6msyq52s50p4snafpezf6qzzkf82tcy7jw4&rid=giphy.gif&ct=g" width="230">
+### React Native Developer | Building High-Rated Mobile Apps
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=vercel&logoColor=black)](https://himanshu-portfolio.vercel.app)
+[![PlayStore](https://img.shields.io/badge/PlayStore_4.9⭐-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=in.habuild)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonihimanshu060)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonihimanshu060@gmail.com)
 
-- 🎓 Final Year B.Tech CSE Student!.<br>
-- 🌱 I’m currently mastering my DSA skills.<br>
-- 🤔 I’m looking for help with Data Structures and Algorithms.<br>
-- ⚡ In my free time, I love to Read Self-Help books and watch series/movies.<br>
-- 💬 I love to learn new things and always ready to help others.<br>        
-- 📫 How to reach me **sonihimanshu060@gmail.com**
+</div>
 
-<br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imhimanshusoni&label=PROFILE+VIEWS" alt="Himanshu..." /> </p>
-<p>
-<a align= "centre" href="https://github.com/imhimanshusoni">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=imhimanshusoni&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
-         &nbsp;
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=imhimanshusoni&count_private=true&theme=radical&show_icons=true" />
-</p>
+---
 
+## 🚀 About Me
 
-<p align="left"> <a href="https://twitter.com/mhimanshusoni" target="blank"><img src="https://img.shields.io/twitter/follow/mhimanshusoni?logo=twitter&style=for-the-badge" alt="mhimanshusoni" /></a> </p>
+Full Stack React Developer at **Habuild**, specializing in React Native mobile development and building scalable web applications with React, TypeScript, and Redux. Working on the Habuild app with **4.9⭐ rating on Google Play Store**.
 
-<br><br>
-<hr>
+- 💼 Currently working as **Software Development Engineer I** at Habuild
+- 📱 **Primary focus:** React Native mobile development for production app ([in.habuild](https://play.google.com/store/apps/details?id=in.habuild))
+- 🌟 Contributing to an app with **4.9-star rating** on PlayStore
+- 🛠️ Building Next.js web platforms serving thousands of users
+- 🎯 Expert in cross-platform mobile development, state management, and performance optimization
+- 🧪 Practicing test-driven development with comprehensive test coverage
+- 💡 Passionate about creating delightful user experiences on mobile devices
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/mhimanshusoni" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="imhimanshusoni" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/sonihimanshu060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sonihimanshu060" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/imhimanshu1" target="blank"><img align="center" src="https://i.pinimg.com/474x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6--programming.jpg" alt="codechef" height="40" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/himanshu-soni-17620916a" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Himanshu Soni" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/sonihimanshu060/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="45" /></a>
-</p>
+---
 
-<h3 align="center">⭐ Languages and Tools:</h3>
-<p align="center">
-<a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="38" style="vertical-align:top; margin:0px"> &nbsp;&nbsp;&nbsp;
-<a href="https://practice.geeksforgeeks.org/courses/fork-cpp" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/c++1.png" alt="cplusplus" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://practice.geeksforgeeks.org/courses/fork-java" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java" width="30" height="50"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/html.png" alt="html5" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/css.png" alt="css3" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+## 🛠️ Tech Stack
 
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<hr>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="center">
-  <img src="https://github.com/imhimanshusoni/imhimanshusoni/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+### Analytics & Monitoring
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 💼 Experience Highlights
+
+**Software Development Engineer I @ Habuild** *(May 2025 - Present)*
+- **Primary responsibility:** Developing React Native mobile app features for [in.habuild](https://play.google.com/store/apps/details?id=in.habuild) (4.9⭐ PlayStore rating)
+- Built majority of mobile app screens using React Native with focus on performance and UX
+- Architected API integration with Redux Thunk for improved state management
+- Built comprehensive analytics tracking system using Mixpanel and MoEngage
+- Significantly increased test coverage with Jest and React Testing Library
+- Optimized React component rendering with pagination and memoization for low-end devices
+- Implemented CI/CD workflows with ESLint, TypeScript checks, and automated testing
+- Built in-app user registration flow, eliminating external dependencies
+
+**Software Development Engineer Intern @ Habuild** *(Dec 2024 - May 2025)*
+- Contributed features to production Next.js applications (me.habuild.in, habit.yoga)
+- Developed React Native mobile application features with cross-platform compatibility
+- Integrated third-party SDKs (CleverTap) for user engagement and push notifications
+- Researched and experimented with WebView-based architecture for mobile integration
+
+---
+
+## 🌟 Featured Projects
+
+### [Habit Tracker](https://github.com/imhimanshusoni/habit-tracker)
+Full-stack, cross-platform habit tracking application using monorepo architecture
+- **Tech:** Next.js 15, React Native, Node.js, Express, MongoDB, JWT, Tailwind CSS
+- **Features:** RESTful APIs, JWT authentication, responsive web frontend, mobile app with persistent auth
+
+### [Sorting Visualizer](https://github.com/imhimanshusoni/sorting-visualizer)
+Interactive sorting algorithm visualizer with real-time animations
+- **Tech:** React, JavaScript, HTML, CSS
+- **Features:** Multiple sorting algorithms (Bubble, Quick, Merge, Insertion Sort), interactive animations
+
+### [YouTube Video Player](https://github.com/imhimanshusoni/youtube-player)
+YouTube clone capable of hosting programming videos
+- **Tech:** HTML, CSS, JavaScript
+- **Features:** Dynamic video loading, URL parsing, interactive UI
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imhimanshusoni&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 📱 **Primary:** Building production React Native features for Habuild app (4.9⭐ on PlayStore)
+- 🎨 Creating seamless cross-platform mobile experiences (iOS & Android)
+- ⚡ Optimizing mobile app performance and user experience
+- 🧪 Writing comprehensive tests for mobile components
+- 🔨 Contributing to Next.js web platform features
+- 📊 Implementing data-driven product decisions with analytics (Mixpanel, MoEngage)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/sonihimanshu060)
+- 🌐 [Portfolio](https://himanshu-portfolio.vercel.app)
+- 📧 [Email](mailto:sonihimanshu060@gmail.com)
+- 🐦 [Twitter](https://twitter.com/mhimanshusoni)
+
+---
+
+<div align="center">
+  
+### 💡 "Building the future, one component at a time"
+
+![Profile Views](https://komarev.com/ghpvc/?username=imhimanshusoni&color=00ff41&style=flat-square)
+
+</div>
