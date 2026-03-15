@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # Hi there, I'm Himanshu Soni 👋
 
 ### React Native Developer | Building High-Rated Mobile Apps
@@ -78,20 +78,25 @@ Full Stack React Developer at **Habuild**, specializing in React Native mobile d
 
 ## 🌟 Featured Projects
 
-### [Habit Tracker](https://github.com/imhimanshusoni/habit-tracker)
+### [Habit Tracker](https://github.com/imhimanshusoni/habit-tracker-app)
 Full-stack, cross-platform habit tracking application using monorepo architecture
 - **Tech:** Next.js 15, React Native, Node.js, Express, MongoDB, JWT, Tailwind CSS
 - **Features:** RESTful APIs, JWT authentication, responsive web frontend, mobile app with persistent auth
 
-### [Sorting Visualizer](https://github.com/imhimanshusoni/sorting-visualizer)
-Interactive sorting algorithm visualizer with real-time animations
-- **Tech:** React, JavaScript, HTML, CSS
-- **Features:** Multiple sorting algorithms (Bubble, Quick, Merge, Insertion Sort), interactive animations
+### [Portfolio Website](https://github.com/imhimanshusoni/himanshu-portfolio)
+Modern portfolio showcasing full-stack React development
+- **Tech:** Next.js 15, TypeScript, Tailwind CSS, Vercel Analytics
+- **Features:** Terminal-inspired design, responsive layout, live at [himanshu-portfolio-pi.vercel.app](https://himanshu-portfolio-pi.vercel.app/)
 
-### [YouTube Video Player](https://github.com/imhimanshusoni/youtube-player)
-YouTube clone capable of hosting programming videos
-- **Tech:** HTML, CSS, JavaScript
-- **Features:** Dynamic video loading, URL parsing, interactive UI
+### [Fake News Detector](https://github.com/imhimanshusoni/Fake_News_Detector)
+ML-powered fake news detection engine using NLP
+- **Tech:** Python, Jupyter Notebook, Logistic Regression, Random Forest, Gradient Boosting
+- **Features:** NLP text classification, multiple ML model comparison, data analysis pipeline
+
+### [LPU WiFi Autologin](https://github.com/imhimanshusoni/LPU_WIFI_Autologin)
+Python script to automate LPU Wireless & Hostel WiFi login ⭐ 2 stars
+- **Tech:** Python
+- **Features:** Auto-login for LPU campus WiFi networks
 
 ---
 
@@ -99,7 +104,11 @@ YouTube clone capable of hosting programming videos
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imhimanshusoni&count_private=true&theme=radical&show_icons=true&hide_border=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imhimanshusoni&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imhimanshusoni&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -126,7 +135,7 @@ YouTube clone capable of hosting programming videos
 ---
 
 <div align="center">
-  
+
 ### 💡 "Building the future, one component at a time"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imhimanshusoni&color=00ff41&style=flat-square)
